@@ -13,7 +13,7 @@ This project aims to classify emails as spam or not spam using natural language 
 - Naive Bayes Classifier
 
 ## 📂 Dataset
-Used the [SpamAssassin Public Corpus](https://spamassassin.apache.org/old/publiccorpus/) (or link your dataset here).
+Use the Kaggle dataset.
 
 ## 🚀 Features
 - Text preprocessing (cleaning, tokenization)
